@@ -1,0 +1,1 @@
+# Lógica y manejo de datos (estadísticas, reportes)
